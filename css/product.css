@@ -1,0 +1,35 @@
+nav{
+    float: left;
+    width: 100%;
+    height: auto;
+}
+nav .box1{
+    width: 85%;
+    margin-left: 15%;
+
+    border-bottom-left-radius: 30%;
+    float: left;
+}
+nav .box1 img{
+    width: 100%;
+    border-bottom-left-radius: 30%;
+}
+.content{
+    width: 84%;
+    height: 1130px;
+    margin-left: 15%;
+    float: left;
+    list-style: none;
+    border: 2px solid;
+    border-collapse: collapse;
+}
+.content .nav{
+    width: 80%;
+    height: 150px;
+    margin-top: 7%;
+    margin-left: 5%;
+}
+.nav img{
+    width: 350px;
+    height: 230px;
+}

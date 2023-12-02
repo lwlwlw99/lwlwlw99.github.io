@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+header{
+    width: 15%;
+    height: 100%;
+    line-height: 120px;
+    position: fixed;
+    background: white;
+    overflow: hidden;
+}
+
+header img{
+    width: 100%;
+    margin-bottom: -5%;
+}
+header .dh{
+    text-align: center;
+}
+header .dh li{
+    margin-top: -15%;
+    font-size: 25px;
+}
+header .dh a{
+    
+    color: black
+} 
+
+header .dh a:hover{
+    color: skyblue;
+    border: 5px solid skyblue;
+}
+header .dh .a a{
+    color: skyblue;
+    border: 5px solid skyblue;
+    
+}

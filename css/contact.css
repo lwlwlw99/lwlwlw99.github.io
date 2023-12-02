@@ -1,0 +1,57 @@
+
+.content{
+    width: 85%;
+    float: left;
+    margin-left: 15%;
+}
+.content img{
+    width:49%;
+    height: 250px;
+}
+.nav{
+    float: left;
+    width: 85%;
+    height: 200px;
+    margin-left: 7%;
+    margin-top: 5%;
+}
+.nav img{
+    margin-top: 7% ;
+    width: 64px;
+    height: 64px;
+    margin-right: 10%;
+}
+.nav p{
+    float: left;
+}
+.box1{
+    margin-top: 26%;
+    width: 60%;
+    height: 612px;
+    margin-left: 7%;
+}
+.box1 h3{
+    margin-left: 7%;
+    border-bottom: 2px solid #C9CCD0;
+    padding-bottom: 20px;
+    margin-top: 35px;
+    color: black;
+}
+.phone{
+    float: left;
+    width: 70%;
+    height: 250px;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.phone1{
+    width: 40%;
+    height: 170px;
+    border: 1px solid #C9CCD0;
+    margin-top: 30px;
+    margin-left: 7%;
+}
+.phone1 p{
+    line-height: 32px;
+    margin-left: 20px;
+}
